@@ -4,7 +4,12 @@
 </a>
 </p>
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=pasirocketleague&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=pasirocketleague&cover_image=true&theme=default&show_offline=false&background_color=141321&interchange=true&bar_color=f5f5f5&bar_color_cover=true)]]
+<p align="center">
+<a href="https://pxsx.de">
+<img src="https://lanyard.cnrad.dev/api/853350549537030164](https://spotify-github-profile.vercel.app/api/view.svg?uid=pasirocketleague&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=pasirocketleague&cover_image=true&theme=default&show_offline=false&background_color=141321&interchange=true&bar_color=f5f5f5&bar_color_cover=true"
+</a>
+</p>
+
 
 ### 📊 GitHub Stats:
 ---
