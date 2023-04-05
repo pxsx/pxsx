@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://pxsx.de">
-<img src="https://lanyard.cnrad.dev/api/853350549537030164"
+<img src="https://lanyard.cnrad.dev/api/971788346072399932"
 </a>
 </p>
 
